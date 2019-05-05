@@ -1,5 +1,8 @@
 # Clippy Engine
-> The Clippy Engine is a unique game engine. It aims to provide truely interactive experiences and allow characters and events to DIRECTLY affect your desktop environment and file systems.
+
+> Clippy Engine moved! If you would like to contribute the the engine's development, please join the Discord and make an account at repo.clippyengine.com
+
+The Clippy Engine is a unique game engine. It aims to provide truely interactive experiences and allow characters and events to DIRECTLY affect your desktop environment and file systems.
 
 For most games, you play inside of a Window, interacting only with what is made for you. With the Clippy Engine, you can make games OUTSIDE the window, and have your game interact with other parts of the computer.
 
